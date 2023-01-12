@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thulena
+- 👋 Hi, I’m @thulena, real name Leroy van Staveren
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Webdevelopment
